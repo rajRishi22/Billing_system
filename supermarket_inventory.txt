@@ -1,0 +1,7 @@
+tea 20 10
+banana 20 0
+juice 30 20
+tea 20 30
+banana 60 40
+pie 200 0
+fy 89 34
